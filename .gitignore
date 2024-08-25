@@ -33,3 +33,26 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+
+
+
+
+/coverage
+
+
+
+/ios/Pods/
+/vendor/bundle/
+
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+
+
+/android/Pods/
+/yarn/Pods
+/yarn/node_modules
+/yarn/npm-debug.log
+
