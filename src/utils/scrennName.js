@@ -2,19 +2,27 @@
 //objetos
 
 const restaurantStack = {
-    tab: 'RestaurantsTab'
+    tab: 'RestaurantsTab',
+    restaurants: 'Restaurants',
+    addRestaurant: 'AddRestaurantScreen',
 }
 const favoritesStack = {
-    tab: 'FavoritesTab'
+    tab: 'FavoritesTab',
+    favorites: 'Favorites',
 }
+
 const rankingStack = {
-    tab: 'RankingsTab'
+    tab: 'RankingsTab',
+    rankings: 'Rankings',
 }
+
 const serachStack = {
-    tab: 'SearchTab'
+    tab: 'SearchTab',
+    search: 'Search',
 }
 const accountStack = {
-    tab: 'AccountTab'
+    tab: 'AccountTab',
+    account: 'Account',
 }
 
 
